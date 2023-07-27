@@ -1,8 +1,9 @@
 ## 안녕하세요 이락균입니다. 👋
 
-저는 개발자를 되기 위해 노력하고 있고  
-프론트, 백엔드, 웹, 앱 상관없이 기획과 제작을 할 수 있는 사람을 꿈꾸고 있습니다.
-### 그것은 바로 풀스텍 멋쟁이😎
+저는 개발자를 되기 위해 노력하고 있으며  
+프론트, 백엔드, 웹, 앱 상관없이 기획과 제작을 할 수 있는 사람을 꿈꾸고 있습니다.  
+
+### 최종 목표는 풀스택 멋쟁이😎
 
 
 <br/>
@@ -24,12 +25,13 @@
 ### 배우고 싶은 기술 🧩
 ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=java)
 ![flutter](https://img.shields.io/badge/flutter-2278ec?style=for-the-badge&logo=flutter)
+![React Native](https://img.shields.io/badge/React%20Native-2233ec?style=for-the-badge&logo=React-Native)
 ![Swift](https://img.shields.io/badge/Swift-fff?style=for-the-badge&logo=swift)
 
 <br/>
 
 ## 만들고 있는 프로젝트
-![강의사이트 클론](https://github.com/Newbie-Alert/Imitation_codingApple)  
+[강의사이트 클론](https://github.com/Newbie-Alert/Imitation_codingApple)  
 - 현재 수강 중인 강의 사이트를 상상하여 제작해보는 중.
 
 <!--
