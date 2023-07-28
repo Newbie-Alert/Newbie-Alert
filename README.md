@@ -17,7 +17,7 @@
 ![MongoDB](https://img.shields.io/badge/mongo%20db-1A8C45?style=for-the-badge&logo=mongodb)
 ![Express](https://img.shields.io/badge/express-5E0340?style=for-the-badge&logo=express)
 
-### 배우는 중인 기술 🤓
+### 학습 중인 언어 🤓
 ![VEU3](https://img.shields.io/badge/Vue3-FFF?style=for-the-badge&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/Typescript-FFF?style=for-the-badge&logo=typescript)
 
