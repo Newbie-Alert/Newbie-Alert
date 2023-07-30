@@ -34,7 +34,7 @@
 
 
 ## 공부 기록
-[벨로그](https://velog.io/@choonsik0324)
+[Velog](https://velog.io/@choonsik0324)
 <!--
 **Newbie-Alert/Newbie-Alert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
