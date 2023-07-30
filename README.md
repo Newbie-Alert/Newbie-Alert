@@ -32,6 +32,9 @@
 [강의사이트 클론](https://github.com/Newbie-Alert/Imitation_codingApple)  
 - 현재 수강 중인 강의 사이트를 상상하여 제작해보는 중.
 
+
+## 공부 기록
+[벨로그](https://velog.io/@choonsik0324)
 <!--
 **Newbie-Alert/Newbie-Alert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
