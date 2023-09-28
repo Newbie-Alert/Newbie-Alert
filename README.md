@@ -29,7 +29,7 @@
 <br/>
 
 ## 만들고 있는 프로젝트
-[강의사이트 클론](https://github.com/Newbie-Alert/Imitation_codingApple)  
+[travel blog](https://github.com/Newbie-Alert/Trablog)
 - 현재 수강 중인 강의 사이트를 제작해보는 중.
 
 
