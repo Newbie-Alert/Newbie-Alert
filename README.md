@@ -30,7 +30,7 @@
 
 ## 만들고 있는 프로젝트
 [travel blog](https://github.com/Newbie-Alert/Trablog)
-- 현재 수강 중인 강의 사이트를 제작해보는 중.
+- 만들어보고 싶은 여행 기록 블로그
 
 
 ## 공부 기록
