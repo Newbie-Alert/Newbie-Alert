@@ -7,11 +7,14 @@
 <br/>
 
 ## 활용할 수 있는 기술 🤟  
+### Front-end 
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS3-1965E2?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/Javascript-CE4124?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Typescript-FFF?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-237BF3?style=for-the-badge&logo=React)
+
+### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/mongo%20db-1A8C45?style=for-the-badge&logo=mongodb)
 ![Express](https://img.shields.io/badge/express-5E0340?style=for-the-badge&logo=express)
