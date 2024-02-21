@@ -29,8 +29,7 @@
 <br/>
 
 ## 만들고 있는 프로젝트
-[travel blog](https://github.com/Newbie-Alert/Trablog)
-- 만들어보고 싶은 여행 기록 블로그
+[Abex](https://github.com/Newbie-Alert/abex)
 
 
 ## 공부 기록
