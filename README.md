@@ -10,6 +10,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS3-1965E2?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/Javascript-CE4124?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/Typescript-FFF?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-237BF3?style=for-the-badge&logo=React)
 ![Node.js](https://img.shields.io/badge/Node.js-fff?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/mongo%20db-1A8C45?style=for-the-badge&logo=mongodb)
@@ -17,7 +18,6 @@
 
 ### 학습 중인 프레임워크 / 언어 🤓
 ![VEU3](https://img.shields.io/badge/Vue3-FFF?style=for-the-badge&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/Typescript-FFF?style=for-the-badge&logo=typescript)
 
 
 ### 배우고 싶은 기술 🧩
