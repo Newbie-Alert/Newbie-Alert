@@ -20,14 +20,14 @@
 ![Express](https://img.shields.io/badge/express-5E0340?style=for-the-badge&logo=express)
 
 ### 학습 중인 프레임워크 / 언어 🤓
-![VEU3](https://img.shields.io/badge/Vue3-FFF?style=for-the-badge&logo=vue.js)
+![flutter](https://img.shields.io/badge/flutter-2278ec?style=for-the-badge&logo=flutter)
+![React Native](https://img.shields.io/badge/React%20Native-2233ec?style=for-the-badge&logo=React-Native)
 
 
 ### 배우고 싶은 기술 🧩
 ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=java)
-![flutter](https://img.shields.io/badge/flutter-2278ec?style=for-the-badge&logo=flutter)
-![React Native](https://img.shields.io/badge/React%20Native-2233ec?style=for-the-badge&logo=React-Native)
 ![Swift](https://img.shields.io/badge/Swift-fff?style=for-the-badge&logo=swift)
+![VEU3](https://img.shields.io/badge/Vue3-FFF?style=for-the-badge&logo=vue.js)
 
 <br/>
 
