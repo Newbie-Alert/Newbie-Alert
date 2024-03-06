@@ -6,7 +6,7 @@
 
 <br/>
 
-## 활용 가능 🤟  
+### 활용 가능 🤟  
 ### Front-end 
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/CSS3-1965E2?style=for-the-badge&logo=css3)
