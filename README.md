@@ -22,12 +22,6 @@
 
 <br/>
 
-## 만들고 있는 프로젝트
-[Abex](https://github.com/Newbie-Alert/abex)
-
-
-## 공부 기록
-[Velog](https://velog.io/@choonsik0324)
 <!--
 **Newbie-Alert/Newbie-Alert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
